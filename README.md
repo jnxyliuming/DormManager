@@ -1,29 +1,5 @@
 # DormManager
 基于JavaWeb使用jsp+servlet的宿舍管理项目，这是改编b站的一个视频跟随的项目，由于时间紧，为了应付期末考试后半程代码是自己跟着感觉来的  
-├─.idea  
-│  ├─artifacts  
-│  └─libraries  
-├─out  
-│  ├─artifacts  
-│  │  └─DormManage_war_exploded  
-│  │      ├─image  
-│  │      ├─lib  
-│  │      └─WEB-INF  
-│  │          ├─classes  
-│  │          │  ├─com   
-│  │          │  │  └─lm    
-│  │          │  │      └─dorm  
-│  │          │  │          ├─bean  
-│  │          │  │          ├─dao  
-│  │          │  │          ├─service  
-│  │          │  │          ├─servlet  
-│  │          │  │          └─util  
-│  │          │  └─META-INF  
-│  │          ├─jsp  
-│  │          └─lib  
-│  └─production  
-│      └─DormManage  
-│          └─META-INF  
 ├─src  
 │  └─com  
 │      └─lm   #根据自己的喜好来，一般是公司域名倒写  
@@ -39,12 +15,12 @@
         ├─classes  
         │  ├─com  
         │  │  └─lm  
-        │  │      └─dorm  
-        │  │          ├─bean   
-        │  │          ├─dao  
-        │  │          ├─service  
-        │  │          ├─servlet  
-        │  │          └─util  
+        │  │	└─dorm  
+        │  │		  ├─bean   
+        │  │		  ├─dao  
+        │  │		  ├─service  
+        │  │		  ├─servlet  
+        │  │ 		  └─util  
         │  └─META-INF  
         ├─jsp  # jsp文件  
         └─lib  # jar  
